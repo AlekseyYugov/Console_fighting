@@ -1,0 +1,8 @@
+D:\Project_C#\Console_fighting\Console_fighting\bin\Debug\Console_fighting.exe.config
+D:\Project_C#\Console_fighting\Console_fighting\bin\Debug\Console_fighting.exe
+D:\Project_C#\Console_fighting\Console_fighting\bin\Debug\Console_fighting.pdb
+D:\Project_C#\Console_fighting\Console_fighting\obj\Debug\Console_fighting.csproj.AssemblyReference.cache
+D:\Project_C#\Console_fighting\Console_fighting\obj\Debug\Console_fighting.csproj.SuggestedBindingRedirects.cache
+D:\Project_C#\Console_fighting\Console_fighting\obj\Debug\Console_fighting.csproj.CoreCompileInputs.cache
+D:\Project_C#\Console_fighting\Console_fighting\obj\Debug\Console_fighting.exe
+D:\Project_C#\Console_fighting\Console_fighting\obj\Debug\Console_fighting.pdb
